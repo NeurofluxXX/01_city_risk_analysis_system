@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "city": "上海",
+        "risk": 0.85,
+        "longitude": 121.47,
+        "latitude": 31.23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47,
+          31.23
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "city": "南京",
+        "risk": 0.6,
+        "longitude": 118.78,
+        "latitude": 32.04
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.78,
+          32.04
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "city": "杭州",
+        "risk": 0.75,
+        "longitude": 120.15,
+        "latitude": 30.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15,
+          30.27
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "city": "苏州",
+        "risk": 0.45,
+        "longitude": 120.58,
+        "latitude": 31.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.58,
+          31.3
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "city": "无锡",
+        "risk": 0.7,
+        "longitude": 120.3,
+        "latitude": 31.57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3,
+          31.57
+        ]
+      }
+    }
+  ]
+}
